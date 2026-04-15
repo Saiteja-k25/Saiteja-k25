@@ -56,6 +56,8 @@ Turning ideas into interfaces.
 <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify" />
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
 <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
 ---
