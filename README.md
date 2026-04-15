@@ -94,14 +94,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saiteja-k25&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiteja-k25&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kurapati-saiteja-06343724b/
 - 💻 GitHub: https://github.com/Saiteja-k25
