@@ -94,3 +94,4 @@ Turning ideas into interfaces.
 ## 🌐 Connect With Me
 -  LinkedIn: https://www.linkedin.com/in/kurapati-saiteja-06343724b/
 -  GitHub: https://github.com/Saiteja-k25
+-  Mail: kurapatisaitejas@gmail.com
