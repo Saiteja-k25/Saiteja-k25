@@ -9,10 +9,10 @@
 ---
 
 ## 🚀 About Me
-💡 I build **fast, scalable & visually engaging web experiences**  
-🎯 Strong focus on **Frontend + UI/UX + Performance**  
-🤖 Exploring **Generative AI & AI-powered apps**  
-⚡ Love building **real-world impactful projects**  
+ I build **fast, scalable & visually engaging web experiences**  
+ Strong focus on **Frontend + UI/UX + Performance**  
+ Exploring **Generative AI & AI-powered apps**  
+ Love building **real-world impactful projects**  
 
 ---
 
@@ -81,14 +81,6 @@
 🔗 Develop **full-stack MERN apps**  
 ⚡ Optimize for **performance & scalability**  
 🤖 Build **AI-powered applications**  
-
----
-
-## 🚀 Featured Projects
-🧠 Local AI Chatbot (Next.js + Ollama)  
-🌐 3D Portfolio (Three.js)  
-🏥 MERN Dental App  
-🎬 Creative UI Projects (GSAP + animations)  
 
 ---
 
