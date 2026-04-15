@@ -67,7 +67,6 @@
 <p>
 <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow" />
 <img src="https://img.shields.io/badge/MDN-black?style=for-the-badge&logo=mdnwebdocs" />
-<img src="https://img.shields.io/badge/FreeCodeCamp-green?style=for-the-badge&logo=freecodecamp" />
 <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Udemy-purple?style=for-the-badge&logo=udemy" />
 <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google" />
