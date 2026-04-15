@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Saiteja.dev;Building+Modern+UI;Exploring+AI+%F0%9F%A4%96" />
-</h1>
-
 <!-- HEADER -->
 <h1 align="center">< Kurapati Saiteja.Dev /></h1>
 <h3 align="center">🚀 Full Stack Developer | 🎨 UI Enthusiast | 🤖 Exploring Generative AI</h3>
