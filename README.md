@@ -1,3 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=Saiteja&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Saiteja.dev;Building+Modern+UI;Exploring+AI+%F0%9F%A4%96" />
+</h1>
+
 <!-- HEADER -->
 <h1 align="center">< Kurapati Saiteja.Dev /></h1>
 <h3 align="center">🚀 Full Stack Developer | 🎨 UI Enthusiast | 🤖 Exploring Generative AI</h3>
@@ -22,12 +27,13 @@ Turning ideas into interfaces.
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 Tech Stack
 
 ### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,next,vue,tailwind" />
 </p>
+<img src="https://skillicons.dev/icons?i=react,next,vue,nodejs&perline=6" />
 
 ### 🎬 Animation & UI Magic
 <p>
