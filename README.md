@@ -1,10 +1,11 @@
 <!-- HEADER -->
-<h1 align="center">Hey 👋, I'm Kurapati Saiteja</h1>
+<h1 align="center">Kst.dev</h1>
 <h3 align="center">🚀 Full Stack Developer | 🎨 UI Enthusiast | 🤖 Exploring Generative AI</h3>
 
 <p align="center">
-I am a self-taught Full-stack web developer.  
-I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
+I am a self-taught Full-stack web developer. 
+Turning ideas into interfaces.  
+Simplifying complexity through design, code, and creativity.
 </p>
 
 <p align="center">
@@ -96,4 +97,4 @@ I enjoy taking up complex problems and turning them into simple and beautiful in
 ---
 
 ## ⚡ Philosophy
-> ✨ Coding is like a spell — once you understand it, you can create magic.
+✨ Coding is like a spell — once you understand it, you can create magic.
