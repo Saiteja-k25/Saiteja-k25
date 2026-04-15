@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">< Kurapati Saiteja.Dev ></h1>
+<h1 align="center">< Kurapati Saiteja.Dev /></h1>
 <h3 align="center">🚀 Full Stack Developer | 🎨 UI Enthusiast | 🤖 Exploring Generative AI</h3>
 
 <p align="center">
