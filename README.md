@@ -41,7 +41,7 @@ Turning ideas into interfaces.
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### 🗄️ Database
+### 🐬 Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
@@ -83,14 +83,14 @@ Turning ideas into interfaces.
 ---
 
 ## 🌟 What I Do
-✨ Build **modern, responsive web apps**  
-🎬 Create **smooth animations (GSAP, Lenis)**  
-🔗 Develop **full-stack MERN apps**  
-⚡ Optimize for **performance & scalability**  
-🤖 Build **AI-powered applications**  
+- Build **modern, responsive web apps**  
+- Create **smooth animations (GSAP, Lenis)**  
+- Develop **full-stack MERN apps**  
+- Optimize for **performance & scalability**  
+- Build **AI-powered applications**  
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/kurapati-saiteja-06343724b/
-- 💻 GitHub: https://github.com/Saiteja-k25
+-  LinkedIn: https://www.linkedin.com/in/kurapati-saiteja-06343724b/
+-  GitHub: https://github.com/Saiteja-k25
