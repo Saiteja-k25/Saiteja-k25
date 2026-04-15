@@ -3,6 +3,11 @@
 <h3 align="center">🚀 Full Stack Developer | 🎨 UI Enthusiast | 🤖 Exploring Generative AI</h3>
 
 <p align="center">
+I am a self-taught Full-stack web developer.  
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Creating+Clean+UI+%26+Smooth+UX;Exploring+AI+%26+Future+Tech;Turning+Ideas+Into+Reality" />
 </p>
 
