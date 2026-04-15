@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Kst.dev</h1>
+<h1 align="center">Kurapati Saiteja.Dev</h1>
 <h3 align="center">🚀 Full Stack Developer | 🎨 UI Enthusiast | 🤖 Exploring Generative AI</h3>
 
 <p align="center">
@@ -75,7 +75,6 @@ Simplifying complexity through design, code, and creativity.
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
 <img src="https://img.shields.io/badge/MDN-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
 <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Udemy-purple?style=for-the-badge&logo=udemy&logoColor=white" />
 <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
