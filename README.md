@@ -5,7 +5,7 @@
 <p align="center">
 I am a self-taught Full-stack web developer. 
 Turning ideas into interfaces.  
-Simplifying complexity through design, code, and creativity.
+⚡“Code is like magic — if you know the spell, you can build anything.”
 </p>
 
 <p align="center">
@@ -92,8 +92,3 @@ Simplifying complexity through design, code, and creativity.
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/kurapati-saiteja-06343724b/
 - 💻 GitHub: https://github.com/Saiteja-k25
-
----
-
-## ⚡ Philosophy
-✨ Coding is like a spell — once you understand it, you can create magic.
