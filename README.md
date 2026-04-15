@@ -44,6 +44,7 @@ Turning ideas into interfaces.
 ### 🐬 Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
