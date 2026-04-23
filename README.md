@@ -52,8 +52,6 @@ Turning ideas into interfaces.
 ## ☁️ Clouds
 <p>
 <img src="https://img.shields.io/badge/GoogleCloud-blue?style=for-the-badge&logo=googlecloud" />
-<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=heroku" />
 <img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify" />
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
 <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" />
